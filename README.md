@@ -1,3 +1,3 @@
 # shadowsocksr-manyuser-doubi-ssr
 -----
-doubi脚本使用的ssr服务器文件
+doubi ssr脚本使用的服务器文件
